@@ -2,7 +2,7 @@
 <p>Description du capteur 1.</p>
     
     
-   <img alt="Capture d&#39;écran du Capteur 1" src="captures/instanciation_statique.png"/>
+   <img alt="Capture d&#39;écran du Capteur 1" src="captures/instanciation_statique.PNG"/>
    <img alt="Capture d&#39;écran du Capteur 1" src="captures/instanciation_st2.png"/>
 <h2>instanciation dynamique</h2>
 
